@@ -41,7 +41,6 @@ This project implements a real-time **Face Mask Detection and Temperature Screen
 - NumPy
 - PySerial (for Arduino communication)
 - Arduino IDE
-```
 
 ---
 
