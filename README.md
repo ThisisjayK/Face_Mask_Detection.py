@@ -41,19 +41,6 @@ This project implements a real-time **Face Mask Detection and Temperature Screen
 - NumPy
 - PySerial (for Arduino communication)
 - Arduino IDE
-
----
-
-## 🧾 Folder Structure
-
-```
-face_mask_detector_project/
-├── detect_mask_pi.py              # Main Python script for Raspberry Pi
-├── arduino_alert.ino              # Arduino sketch for buzzer control
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project overview and setup
-├── mask_detector.model/           # Pre-trained face mask detection model (to be downloaded)
-└── haarcascade_frontalface_default.xml  # Haar Cascade for face detection
 ```
 
 ---
